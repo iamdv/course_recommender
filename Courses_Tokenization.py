@@ -30,4 +30,4 @@ def generate_word_tokens(courses):
 # ---------------------------------------------------
 
 
-generate_word_tokens(read_courses())
+# generate_word_tokens(read_courses())
